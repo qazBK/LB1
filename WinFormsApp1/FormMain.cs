@@ -34,6 +34,7 @@ namespace WinFormsApp1
         private void panel2_Paint(object sender, PaintEventArgs e)
         {
             
+
         }
 
         private void labelInfAdoutUsers_Click(object sender, EventArgs e)
