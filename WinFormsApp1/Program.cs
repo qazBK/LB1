@@ -8,7 +8,7 @@ namespace WinFormsApp1
         [STAThread]
         static void Main()
         {
-            using (ApplicationContext db = new ApplicationContext())
+            using (ApplicationContext db = new())
             {
 
                 User user1 = new User { Name = "Тои", Age = 33 };
